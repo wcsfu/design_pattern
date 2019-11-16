@@ -1,4 +1,4 @@
-package com.rui.design.creational.master;
+package com.rui.design.master;
 
 /**
  * @创建人 wangrui
