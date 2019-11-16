@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="dd28ff01-8213-420d-948e-b04efdb1e87d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rui/design/creational/simplefactory/JavaVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rui/design/creational/simplefactory/PythonVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rui/design/creational/simplefactory/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rui/design/creational/simplefactory/Video.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rui/design/creational/simplefactory/VideoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rui/design/creational/singleton/ContainerSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/rui/design/creational/singleton/ThreadLocalInstance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rui/design/principle/compositionaggregation/ProductionDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/rui/design/principle/compositionaggregation/ProductionDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/rui/design/principle/compositionaggregation/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/rui/design/principle/compositionaggregation/Test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,66 +16,154 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="ContainerSingleton.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/singleton/ContainerSingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#549#550#0" expanded="true" />
+                <element signature="e#593#594#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadLocalInstance.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/singleton/ThreadLocalInstance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="42" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="42" />
+              <folding>
+                <element signature="e#205#461#0" expanded="true" />
+                <element signature="e#460#461#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/singleton/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="T.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/singleton/T.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LazySingleton.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/singleton/LazySingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LazyDoubleCheckSingleton.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/singleton/LazyDoubleCheckSingleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>@Override</find>
+      <find>mail</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>CourseBuilder</replace>
+      <replace />
+      <replace>mail1Temp</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/openclose/JavaCourse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/openclose/ICourse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/openclose/JavaDiscountCourse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/openclose/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/dependenceinversion/ICourse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/dependenceinversion/FEcourse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/dependenceinversion/PythonCourse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/dependenceinversion/JavaCourse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/dependenceinversion/Geely.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/dependenceinversion/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/singleresponsibility/Bird.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/singleresponsibility/FlyBird.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/singleresponsibility/WalkBird.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/singleresponsibility/ICourse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/singleresponsibility/ICourseContent.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/singleresponsibility/ICourseManager.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/singleresponsibility/CourseImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/singleresponsibility/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/singleresponsibility/Method.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/interfacesegregation/IAnimalAction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/interfacesegregation/IFlyAnimalAction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/interfacesegregation/IEatAnimalAction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/interfacesegregation/ISwimAnimalAction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/interfacesegregation/Bird.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/interfacesegregation/Dog.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/demeter/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/demeter/TeamLeader.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/demeter/Boss.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/liskovsubsitution/Quadrangle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/liskovsubsitution/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/liskovsubsitution/Square.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/liskovsubsitution/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/compositionaggregation/DBConnection.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/compositionaggregation/AbstactDBConnection.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/compositionaggregation/PostgreSQLConnection.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/compositionaggregation/MySqlConnection.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/compositionaggregation/ProductionDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/principle/compositionaggregation/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/creational/simplefactory/Vdio.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/creational/simplefactory/JavaVideo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/creational/simplefactory/PythonVideo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/creational/simplefactory/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/creational/simplefactory/VideoFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/structural/bridge/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/structural/bridge/SavingAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/structural/bridge/DepositAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/structural/bridge/Bank.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/structural/bridge/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/structural/bridge/ABCBank.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/structural/bridge/ICBCBank.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/structural/proxy/Order.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/structural/proxy/IOrderService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/structural/proxy/IOrderDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/structural/proxy/OrderDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/structural/proxy/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/structural/proxy/staticproxy/OrderServiceStaticProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/structural/proxy/db/DynamicDataSource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/templatemethod/DesignPatternCourse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/templatemethod/FECourse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/templatemethod/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/templatemethod/ACourse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/strategy/FanxianPromotionStategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/strategy/LijianPromotionStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/strategy/ManjianPromotionStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/strategy/PromotionActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/strategy/PromotionStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/strategy/EmptyPromotionStrategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/strategy/PromotionStrategyFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/strategy/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/oberver/Question.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/oberver/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/oberver/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/oberver/Course.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/command/Command.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/command/CourseVideo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/command/OpenCourseVide.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/command/CloseCourseVide.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/command/OpenCourseCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/command/CloseCourseCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/command/Staff.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/command/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/mediator/StudyGroup.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/mediator/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/mediator/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/chainofresponsibility/Course.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/chainofresponsibility/ArticleApprover.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/chainofresponsibility/VideoApprover.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/chainofresponsibility/Approver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/chainofresponsibility/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/state/CourseVideoState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/state/PlayState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/state/CourseVideoContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/creational/singleton/ThreadLocalInstance.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/rui/design/creational/singleton/ContainerSingleton.java" />
       </list>
     </option>
   </component>
@@ -111,6 +194,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,15 +241,18 @@
               <item name="design_pattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="design_pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="design" type="462c0819:PsiDirectoryNode" />
+              <item name="creational" type="462c0819:PsiDirectoryNode" />
+              <item name="singleton" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -179,6 +266,17 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/rui/design/creational/factorymethod" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.rui.design.creational.factorymethod" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.rui.design.creational.abstractfactory" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -191,58 +289,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (4)">
+  <component name="RunManager" selected="Application.Test (3)">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rui.design.principle.demeter.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.rui.design.behavioral.mediator.Test" />
       <module name="design_pattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rui.design.principle.demeter.*" />
+          <option name="PATTERN" value="com.rui.design.behavioral.mediator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rui.design.principle.liskovsubsitution.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.rui.design.behavioral.oberver.Test" />
       <module name="design_pattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rui.design.principle.liskovsubsitution.*" />
+          <option name="PATTERN" value="com.rui.design.behavioral.oberver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rui.design.principle.compositionaggregation.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.rui.design.behavioral.chainofresponsibility.Test" />
       <module name="design_pattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rui.design.principle.compositionaggregation.*" />
+          <option name="PATTERN" value="com.rui.design.behavioral.chainofresponsibility.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rui.design.creational.simplefactory.Test" />
+    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.rui.design.behavioral.command.Test" />
       <module name="design_pattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rui.design.creational.simplefactory.*" />
+          <option name="PATTERN" value="com.rui.design.behavioral.command.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.rui.design.principle.singleresponsibility.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.rui.design.strategy.Test" />
       <module name="design_pattern" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.rui.design.principle.singleresponsibility.*" />
+          <option name="PATTERN" value="com.rui.design.strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,17 +388,17 @@
     </configuration>
     <list>
       <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.Test (2)" />
+      <item itemvalue="Application.Test (5)" />
+      <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.Test (3)" />
-      <item itemvalue="Application.Test (4)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (4)" />
         <item itemvalue="Application.Test (3)" />
-        <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test (5)" />
+        <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -316,32 +414,64 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571627076221</updated>
-      <workItem from="1571627077889" duration="19228000" />
+      <workItem from="1571627077889" duration="27240000" />
+      <workItem from="1571748382522" duration="1064000" />
+      <workItem from="1572141628720" duration="5174000" />
+      <workItem from="1572158516535" duration="6433000" />
+      <workItem from="1572251103941" duration="40000" />
+      <workItem from="1572483307300" duration="35008000" />
+      <workItem from="1572779702272" duration="946000" />
+      <workItem from="1573435484718" duration="6201000" />
+      <workItem from="1573698095902" duration="1188000" />
+      <workItem from="1573865666881" duration="368000" />
     </task>
+    <task id="LOCAL-00001" summary="111111">
+      <created>1571731124138</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571731124138</updated>
+    </task>
+    <task id="LOCAL-00002" summary="22222">
+      <created>1572614260921</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572614260921</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19228000" />
+    <option name="totallyTimeSpent" value="83662000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="975" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="bottom" id="Messages" order="5" weight="0.32915717" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.32915717" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="6" />
-      <window_info anchor="bottom" id="Java Enterprise" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="2" weight="0.32915717" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="2" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.32915717" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32915717" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.32915717" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.32915717" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32915717" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.22161172" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24481075" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info anchor="right" id="Database" order="1" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
@@ -350,18 +480,19 @@
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.3997722" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.32915717" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="7" />
     </layout>
     <layout-to-restore>
       <window_info id="Designer" order="0" />
       <window_info anchor="right" id="Palette" order="5" />
       <window_info id="Image Layers" order="6" />
-      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.32915717" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.32915717" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info id="UI Designer" order="1" />
@@ -371,22 +502,22 @@
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.32915717" />
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="right" id="Database" order="1" />
-      <window_info anchor="bottom" id="Java Enterprise" order="2" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.23382173" />
+      <window_info anchor="bottom" id="Java Enterprise" order="2" weight="0.32915717" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.32915717" />
       <window_info anchor="right" id="Maven Projects" order="2" />
-      <window_info anchor="bottom" id="Find" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.22161172" />
-      <window_info anchor="bottom" id="Messages" order="5" weight="0.32915717" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="right" id="Database" order="1" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info id="Web" order="4" side_tool="true" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="7" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.3997722" />
     </layout-to-restore>
   </component>
@@ -397,13 +528,26 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="111111" />
+    <MESSAGE value="22222" />
+    <option name="LAST_COMMIT_MESSAGE" value="22222" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="dart-exception">
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="25" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -421,57 +565,318 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/openclose/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/command/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="93" selection-start-line="13" selection-start-column="93" selection-end-line="13" selection-end-column="93" />
+        <state relative-caret-position="255">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/openclose/JavaCourse.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/mediator/StudyGroup.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-          <folding>
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="180">
+          <caret line="12" column="87" selection-start-line="12" selection-start-column="87" selection-end-line="12" selection-end-column="87" />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/com.rui.design.principle.openclose">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/mediator/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/mediator/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/chainofresponsibility/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/chainofresponsibility/VideoApprover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="56" selection-start-line="16" selection-start-column="56" selection-end-line="16" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/chainofresponsibility/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/chainofresponsibility/ArticleApprover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/chainofresponsibility/Approver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/state/CourseVideoState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/state/SpeedState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/state/PauseState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/state/StopState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/state/PlayState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/state/CourseVideoContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/structural/decorator/v2/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/structural/decorator/v2/EggDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/structural/facade/ShippingService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/structural/facade/QualifyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/structural/flyweight/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/structural/flyweight/EmployeeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/oberver/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/oberver/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/oberver/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/behavioral/oberver/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/factorymethod/VideoFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/factorymethod/PythonVideoFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/factorymethod/JavaVideoFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/abstractfactory/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/abstractfactory/PythonArticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/abstractfactory/PythonCourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/factorymethod/Video.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/factorymethod/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/factorymethod/FeVideoFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/abstractfactory/JavaCourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/abstractfactory/CourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.rui.design.creational.abstractfactory">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
-          <OriginalElement>com.rui.design.principle.openclose</OriginalElement>
+          <OriginalElement>com.rui.design.creational.abstractfactory</OriginalElement>
           <nodes>
-            <node x="483.0" y="67.0">com.rui.design.principle.openclose.Test</node>
-            <node x="0.0" y="313.0">com.rui.design.principle.openclose.JavaDiscountCourse</node>
-            <node x="27.5" y="145.0">com.rui.design.principle.openclose.JavaCourse</node>
-            <node x="109.5" y="0.0">com.rui.design.principle.openclose.ICourse</node>
+            <node x="0.0" y="342.0">com.rui.design.creational.abstractfactory.JavaArticle</node>
+            <node x="89.5" y="241.0">com.rui.design.creational.abstractfactory.Article</node>
+            <node x="0.0" y="123.0">com.rui.design.creational.abstractfactory.JavaCourseFactory</node>
+            <node x="383.0" y="438.0">com.rui.design.creational.abstractfactory.Test</node>
+            <node x="0.0" y="539.0">com.rui.design.creational.abstractfactory.JavaVideo</node>
+            <node x="179.0" y="539.0">com.rui.design.creational.abstractfactory.PythonVideo</node>
+            <node x="89.5" y="438.0">com.rui.design.creational.abstractfactory.Video</node>
+            <node x="111.0" y="0.0">com.rui.design.creational.abstractfactory.CourseFactory</node>
+            <node x="179.0" y="342.0">com.rui.design.creational.abstractfactory.PythonArticle</node>
+            <node x="186.0" y="123.0">com.rui.design.creational.abstractfactory.PythonCourseFactory</node>
           </nodes>
           <notes />
           <edges>
-            <edge source="com.rui.design.principle.openclose.JavaDiscountCourse" target="com.rui.design.principle.openclose.JavaCourse">
-              <point x="0.0" y="-48.0" />
-              <point x="0.0" y="59.0" />
+            <edge source="com.rui.design.creational.abstractfactory.JavaArticle" target="com.rui.design.creational.abstractfactory.Article">
+              <point x="0.0" y="-25.5" />
+              <point x="79.5" y="317.0" />
+              <point x="129.25" y="317.0" />
+              <point x="-39.75" y="25.5" />
             </edge>
-            <edge source="com.rui.design.principle.openclose.JavaCourse" target="com.rui.design.principle.openclose.ICourse">
-              <point x="0.0" y="-59.0" />
-              <point x="0.0" y="47.5" />
+            <edge source="com.rui.design.creational.abstractfactory.PythonArticle" target="com.rui.design.creational.abstractfactory.Article">
+              <point x="0.0" y="-25.5" />
+              <point x="258.5" y="317.0" />
+              <point x="208.75" y="317.0" />
+              <point x="39.75" y="25.5" />
+            </edge>
+            <edge source="com.rui.design.creational.abstractfactory.JavaVideo" target="com.rui.design.creational.abstractfactory.Video">
+              <point x="0.0" y="-25.5" />
+              <point x="79.5" y="514.0" />
+              <point x="129.25" y="514.0" />
+              <point x="-39.75" y="25.5" />
+            </edge>
+            <edge source="com.rui.design.creational.abstractfactory.PythonCourseFactory" target="com.rui.design.creational.abstractfactory.CourseFactory">
+              <point x="0.0" y="-36.5" />
+              <point x="277.0" y="98.0" />
+              <point x="214.5" y="98.0" />
+              <point x="34.5" y="36.5" />
+            </edge>
+            <edge source="com.rui.design.creational.abstractfactory.JavaCourseFactory" target="com.rui.design.creational.abstractfactory.CourseFactory">
+              <point x="0.0" y="-36.5" />
+              <point x="83.0" y="98.0" />
+              <point x="145.5" y="98.0" />
+              <point x="-34.5" y="36.5" />
+            </edge>
+            <edge source="com.rui.design.creational.abstractfactory.PythonVideo" target="com.rui.design.creational.abstractfactory.Video">
+              <point x="0.0" y="-25.5" />
+              <point x="258.5" y="514.0" />
+              <point x="208.75" y="514.0" />
+              <point x="39.75" y="25.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="6.0" y="232.0" />
-          <SelectedNodes>
-            <node>com.rui.design.principle.openclose.Test</node>
-          </SelectedNodes>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-194.0" y="313.0" />
+          <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
-            <Category>Constructors</Category>
             <Category>Methods</Category>
             <Category>Properties</Category>
             <Category>Inner Classes</Category>
@@ -481,617 +886,168 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/openclose/JavaDiscountCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-          <folding>
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/dependenceinversion/FEcourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-          <folding>
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/dependenceinversion/ICourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/dependenceinversion/PythonCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/dependenceinversion/Geely.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
-          <folding>
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/dependenceinversion/JavaCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/dependenceinversion/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="44" column="39" selection-start-line="44" selection-start-column="39" selection-end-line="44" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/singleresponsibility/WalkBird.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/singleresponsibility/Bird.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="50" lean-forward="true" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/singleresponsibility/FlyBird.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/singleresponsibility/ICourseContent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/singleresponsibility/ICourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="20" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/singleresponsibility/ICourseManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/singleresponsibility/CourseImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.rui.design.principle.singleresponsibility">
+    <entry file="uml://JAVA/com.rui.design.creational.factorymethod">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
           <ID>JAVA</ID>
-          <OriginalElement>com.rui.design.principle.singleresponsibility</OriginalElement>
+          <OriginalElement>com.rui.design.creational.factorymethod</OriginalElement>
           <nodes>
-            <node x="89.25" y="123.0">com.rui.design.principle.singleresponsibility.CourseImpl</node>
-            <node x="190.0" y="0.0">com.rui.design.principle.singleresponsibility.ICourseManager</node>
-            <node x="261.0" y="286.0">com.rui.design.principle.singleresponsibility.WalkBird</node>
-            <node x="238.0" y="483.0">com.rui.design.principle.singleresponsibility.Bird</node>
-            <node x="159.0" y="387.0">com.rui.design.principle.singleresponsibility.Test</node>
-            <node x="0.0" y="0.0">com.rui.design.principle.singleresponsibility.ICourseContent</node>
-            <node x="0.0" y="483.0">com.rui.design.principle.singleresponsibility.ICourse</node>
-            <node x="0.0" y="286.0">com.rui.design.principle.singleresponsibility.FlyBird</node>
+            <node x="185.0" y="0.0">com.rui.design.creational.factorymethod.VideoFactory</node>
+            <node x="356.0" y="79.0">com.rui.design.creational.factorymethod.JavaVideoFactory</node>
+            <node x="147.0" y="232.0">com.rui.design.creational.factorymethod.JavaVideo</node>
+            <node x="420.0" y="153.0">com.rui.design.creational.factorymethod.Test</node>
+            <node x="161.0" y="153.0">com.rui.design.creational.factorymethod.Video</node>
+            <node x="278.0" y="232.0">com.rui.design.creational.factorymethod.FeVideo</node>
+            <node x="163.0" y="79.0">com.rui.design.creational.factorymethod.PythonVideoFactory</node>
+            <node x="0.0" y="79.0">com.rui.design.creational.factorymethod.FeVideoFactory</node>
+            <node x="0.0" y="232.0">com.rui.design.creational.factorymethod.PythonVideo</node>
           </nodes>
           <notes />
           <edges>
-            <edge source="com.rui.design.principle.singleresponsibility.Test" target="com.rui.design.principle.singleresponsibility.FlyBird">
-              <point x="-23.0" y="-25.5" />
-              <point x="228.0" y="357.0" />
-              <point x="180.75" y="357.0" />
-              <point x="60.25" y="25.5" />
+            <edge source="com.rui.design.creational.factorymethod.FeVideo" target="com.rui.design.creational.factorymethod.Video">
+              <point x="0.0" y="-14.5" />
+              <point x="326.5" y="207.0" />
+              <point x="230.16666666666669" y="207.0" />
+              <point x="27.666666666666686" y="14.5" />
             </edge>
-            <edge source="com.rui.design.principle.singleresponsibility.Test" target="com.rui.design.principle.singleresponsibility.WalkBird">
-              <point x="23.0" y="-25.5" />
-              <point x="274.0" y="357.0" />
-              <point x="321.25" y="357.0" />
-              <point x="-60.25" y="25.5" />
+            <edge source="com.rui.design.creational.factorymethod.PythonVideoFactory" target="com.rui.design.creational.factorymethod.VideoFactory">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
             </edge>
-            <edge source="com.rui.design.principle.singleresponsibility.CourseImpl" target="com.rui.design.principle.singleresponsibility.ICourseManager">
-              <point x="48.25" y="-59.0" />
-              <point x="234.0" y="98.0" />
-              <point x="286.5" y="98.0" />
-              <point x="0.0" y="36.5" />
+            <edge source="com.rui.design.creational.factorymethod.JavaVideoFactory" target="com.rui.design.creational.factorymethod.VideoFactory">
+              <point x="0.0" y="-14.5" />
+              <point x="434.5" y="54.0" />
+              <point x="292.5" y="54.0" />
+              <point x="43.0" y="14.5" />
             </edge>
-            <edge source="com.rui.design.principle.singleresponsibility.CourseImpl" target="com.rui.design.principle.singleresponsibility.ICourseContent">
-              <point x="-48.25" y="-59.0" />
-              <point x="137.5" y="98.0" />
-              <point x="85.0" y="98.0" />
-              <point x="0.0" y="36.5" />
+            <edge source="com.rui.design.creational.factorymethod.PythonVideo" target="com.rui.design.creational.factorymethod.Video">
+              <point x="0.0" y="-14.5" />
+              <point x="63.5" y="207.0" />
+              <point x="174.83333333333334" y="207.0" />
+              <point x="-27.666666666666657" y="14.5" />
+            </edge>
+            <edge source="com.rui.design.creational.factorymethod.FeVideoFactory" target="com.rui.design.creational.factorymethod.VideoFactory">
+              <point x="0.0" y="-14.5" />
+              <point x="71.5" y="54.0" />
+              <point x="206.5" y="54.0" />
+              <point x="-43.0" y="14.5" />
+            </edge>
+            <edge source="com.rui.design.creational.factorymethod.JavaVideo" target="com.rui.design.creational.factorymethod.Video">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
             </edge>
           </edges>
-          <settings layout="Hierarchic Group" zoom="1.0" x="-301.0" y="142.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-127.0" y="102.0" />
           <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/singleresponsibility/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/singleresponsibility/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-          <folding>
-            <element signature="e#498#499#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#648#649#0" expanded="true" />
-            <element signature="e#683#684#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/interfacesegregation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.rui.design.principle.dependenceinversion">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.rui.design.principle.dependenceinversion</OriginalElement>
-          <nodes>
-            <node x="227.0" y="79.0">com.rui.design.principle.dependenceinversion.PythonCourse</node>
-            <node x="124.99999999999999" y="79.0">com.rui.design.principle.dependenceinversion.Geely</node>
-            <node x="139.0" y="0.0">com.rui.design.principle.dependenceinversion.ICourse</node>
-            <node x="0.0" y="79.0">com.rui.design.principle.dependenceinversion.FEcourse</node>
-            <node x="383.0" y="79.0">com.rui.design.principle.dependenceinversion.JavaCourse</node>
-            <node x="119.58333333333331" y="158.0">com.rui.design.principle.dependenceinversion.Test</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="com.rui.design.principle.dependenceinversion.Geely" target="com.rui.design.principle.dependenceinversion.ICourse">
-              <point x="-20.5" y="-14.5" />
-              <point x="145.5" y="59.0" />
-              <point x="167.5" y="59.0" />
-              <point x="-19.0" y="14.5" />
-            </edge>
-            <edge source="com.rui.design.principle.dependenceinversion.Test" target="com.rui.design.principle.dependenceinversion.Geely">
-              <point x="9.375" y="-14.5" />
-              <point x="166.45833333333331" y="128.0" />
-              <point x="186.5" y="128.0" />
-              <point x="20.5" y="14.5" />
-            </edge>
-            <edge source="com.rui.design.principle.dependenceinversion.Test" target="com.rui.design.principle.dependenceinversion.PythonCourse">
-              <point x="28.125" y="-14.5" />
-              <point x="185.20833333333331" y="138.0" />
-              <point x="295.0" y="138.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="com.rui.design.principle.dependenceinversion.Test" target="com.rui.design.principle.dependenceinversion.FEcourse">
-              <point x="-28.125" y="-14.5" />
-              <point x="128.95833333333331" y="138.0" />
-              <point x="52.5" y="138.0" />
-              <point x="0.0" y="14.5" />
-            </edge>
-            <edge source="com.rui.design.principle.dependenceinversion.JavaCourse" target="com.rui.design.principle.dependenceinversion.ICourse">
-              <point x="2.8421709430404007E-14" y="-14.5" />
-              <point x="443.0" y="49.0" />
-              <point x="224.5" y="49.0" />
-              <point x="38.0" y="14.5" />
-            </edge>
-            <edge source="com.rui.design.principle.dependenceinversion.PythonCourse" target="com.rui.design.principle.dependenceinversion.ICourse">
-              <point x="0.0" y="-14.5" />
-              <point x="295.0" y="59.0" />
-              <point x="205.5" y="59.0" />
-              <point x="19.0" y="14.5" />
-            </edge>
-            <edge source="com.rui.design.principle.dependenceinversion.FEcourse" target="com.rui.design.principle.dependenceinversion.ICourse">
-              <point x="0.0" y="-14.5" />
-              <point x="52.5" y="49.0" />
-              <point x="148.5" y="49.0" />
-              <point x="-38.0" y="14.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="1.6000000000000005" x="-47.937499999999886" y="-17.124999999999943" />
-          <SelectedNodes>
-            <node>com.rui.design.principle.dependenceinversion.Test</node>
-          </SelectedNodes>
           <Categories />
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/interfacesegregation/IFlyAnimalAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/interfacesegregation/IEatAnimalAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/interfacesegregation/ISwimAnimalAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/interfacesegregation/IAnimalAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/interfacesegregation/Bird.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/interfacesegregation/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.rui.design.principle.interfacesegregation">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.rui.design.principle.interfacesegregation</OriginalElement>
-          <nodes>
-            <node x="" y="">com.rui.design.principle.interfacesegregation.Dog</node>
-            <node x="" y="">com.rui.design.principle.interfacesegregation.ISwimAnimalAction</node>
-            <node x="" y="">com.rui.design.principle.interfacesegregation.IFlyAnimalAction</node>
-            <node x="" y="">com.rui.design.principle.interfacesegregation.Bird</node>
-            <node x="" y="">com.rui.design.principle.interfacesegregation.IEatAnimalAction</node>
-            <node x="" y="">com.rui.design.principle.interfacesegregation.IAnimalAction</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="-229.5" y="-42.5" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/demeter/TeamLeader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/demeter/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/demeter/Boss.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/demeter/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.rui.design.principle.demeter">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.rui.design.principle.demeter</OriginalElement>
-          <nodes>
-            <node x="" y="">com.rui.design.principle.demeter.Test</node>
-            <node x="" y="">com.rui.design.principle.demeter.Course</node>
-            <node x="" y="">com.rui.design.principle.demeter.Boss</node>
-            <node x="" y="">com.rui.design.principle.demeter.TeamLeader</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="2.000000000000001" x="-47.00000000000006" y="85.99999999999994" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Fields</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/liskovsubsitution/Quadrangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/liskovsubsitution/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          <folding>
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#454#455#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/liskovsubsitution/Square.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
-          <folding>
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/liskovsubsitution/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/compositionaggregation/PostgreSQLConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/compositionaggregation/DBConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="26" />
-          <folding>
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/compositionaggregation/AbstactDBConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/compositionaggregation/MySqlConnection.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/simplefactory/JavaVideo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/compositionaggregation/ProductionDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
-          <folding>
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/principle/compositionaggregation/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.rui.design.principle.compositionaggregation">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.rui.design.principle.compositionaggregation</OriginalElement>
-          <nodes>
-            <node x="" y="">com.rui.design.principle.compositionaggregation.PostgreSQLConnection</node>
-            <node x="" y="">com.rui.design.principle.compositionaggregation.AbstactDBConnection</node>
-            <node x="" y="">com.rui.design.principle.compositionaggregation.MySqlConnection</node>
-            <node x="" y="">com.rui.design.principle.compositionaggregation.DBConnection</node>
-            <node x="" y="">com.rui.design.principle.compositionaggregation.ProductionDao</node>
-            <node x="" y="">com.rui.design.principle.compositionaggregation.Test</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.4000000000000004" x="-56.57142857142861" y="191.4285714285714" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/simplefactory/Video.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/simplefactory/JavaVideo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding>
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/simplefactory/PythonVideo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-          <folding>
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/simplefactory/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/simplefactory/PythonVideo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/simplefactory/Video.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/singleton/StaticInnerClassSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/singleton/HungrySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/simplefactory/VideoFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        <state relative-caret-position="252">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/com.rui.design.creational.simplefactory">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.rui.design.creational.simplefactory</OriginalElement>
-          <nodes>
-            <node x="" y="">com.rui.design.creational.simplefactory.JavaVideo</node>
-            <node x="" y="">com.rui.design.creational.simplefactory.VideoFactory</node>
-            <node x="" y="">com.rui.design.creational.simplefactory.PythonVideo</node>
-            <node x="" y="">com.rui.design.creational.simplefactory.Test</node>
-            <node x="" y="">com.rui.design.creational.simplefactory.Video</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.7000000000000006" x="-65.71323529411782" y="99.17647058823525" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Properties</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/singleton/ContainerSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#549#550#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/singleton/ThreadLocalInstance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="42" />
+          <folding>
+            <element signature="e#205#461#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/singleton/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/singleton/T.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/singleton/LazySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/rui/design/creational/singleton/LazyDoubleCheckSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="20" />
         </state>
       </provider>
     </entry>
